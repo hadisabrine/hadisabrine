@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Hadi Sabrine 
 
-<!--
-**hadisabrine/hadisabrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year student in Computer Engineering and Artificial Intelligence.  
+I'm still a beginner, and my main goal is to **learn how to code** and create **various projects**.  
 
-Here are some ideas to get you started:
+I am interested in projects involving:  
+- Python  
+- Java  
+- HTML & Web Development  
+- Data Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to gain experience and improve my coding skills through practical projects.
+
